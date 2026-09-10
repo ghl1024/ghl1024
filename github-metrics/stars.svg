@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ghl1024/domain.ssl.monitor</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">分布式域名 SSL/TLS 证书监控平台，支持多地域探测、Consul/Nacos 服务发现、自定义域名导入、证书过期告警、Prometheus Remote Write、Agent 离线缓冲、LDAP/RBAC 和可视化管理。</div>
